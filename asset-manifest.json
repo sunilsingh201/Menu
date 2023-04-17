@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sunilsingh201/Menu.git/static/css/main.4e0c513c.css",
-    "main.js": "/sunilsingh201/Menu.git/static/js/main.cc48cff1.js",
-    "static/js/787.67f7ae5c.chunk.js": "/sunilsingh201/Menu.git/static/js/787.67f7ae5c.chunk.js",
-    "index.html": "/sunilsingh201/Menu.git/index.html",
-    "main.4e0c513c.css.map": "/sunilsingh201/Menu.git/static/css/main.4e0c513c.css.map",
-    "main.cc48cff1.js.map": "/sunilsingh201/Menu.git/static/js/main.cc48cff1.js.map",
-    "787.67f7ae5c.chunk.js.map": "/sunilsingh201/Menu.git/static/js/787.67f7ae5c.chunk.js.map"
+    "main.css": "/Menu/static/css/main.4e0c513c.css",
+    "main.js": "/Menu/static/js/main.dae3eed8.js",
+    "static/js/787.67f7ae5c.chunk.js": "/Menu/static/js/787.67f7ae5c.chunk.js",
+    "index.html": "/Menu/index.html",
+    "main.4e0c513c.css.map": "/Menu/static/css/main.4e0c513c.css.map",
+    "main.dae3eed8.js.map": "/Menu/static/js/main.dae3eed8.js.map",
+    "787.67f7ae5c.chunk.js.map": "/Menu/static/js/787.67f7ae5c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4e0c513c.css",
-    "static/js/main.cc48cff1.js"
+    "static/js/main.dae3eed8.js"
   ]
 }
